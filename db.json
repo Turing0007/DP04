@@ -165,7 +165,17 @@
 			"AccountAccess": "67343,67344",
 			"Lastlogiondate/time": "10/10/2023 15:23",
 			"Language": "GB English",
-			"ContactNo": "0044 7886373632"
+			"ContactNo": "0044 7886373632",
+    "AccountAccess": [
+      {
+        "AccountNumber": "67343",
+        "AccountID": 1
+      },
+      {
+        "AccountNumber": "67344",
+        "AccountID": 2
+      }
+    ]
 		},
 		{
 			"UserID": 2,
